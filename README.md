@@ -28,9 +28,10 @@ I'm going to run it in a web application, so I'm going to run
 expo start --web
 ```
 
+---
 **IMPORTANT: If you have any tracking or adverts blocker, please deactivate. Because the project uses your IP to know your latitude and longitude to give you more accurate information.**
 
 ---
 See screenshots:
-<img height="60" src="https://i.imgur.com/6QVdWpl.png"/><br/>
-<img height="60" src="https://i.imgur.com/7EBoU4n.png"/>
+<img wight="50%" src="https://i.imgur.com/6QVdWpl.png"/><br/>
+<img wight="50%" src="https://i.imgur.com/7EBoU4n.png"/>
